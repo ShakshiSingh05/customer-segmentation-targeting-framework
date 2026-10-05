@@ -1,0 +1,4 @@
+data/cards.db
+data/_df.pkl
+data/_cluster_profile_raw.csv
+__pycache__/
